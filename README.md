@@ -1,5 +1,5 @@
 # Covid19TurkeyWithRetrofit
-- I made an this application that shows Turkey's Covid-19 data. While doing this, I used the data of the Ministry of Health. I got this data from the internet with Retrofit.
+This application no longer works due to change of URL address.
 - Application Images:
 
 ![2](https://user-images.githubusercontent.com/58858983/98470853-747f3880-21f9-11eb-9a87-b257bac31456.jpg)
